@@ -8,9 +8,9 @@ import Approach from './components/Approach';
 import Partners from './components/Partners';
 import Footer from './components/Footer';
 
-function App(): React.ReactNode {
+const App: React.FC = () => {
   return (
-    <div className="bg-white text-gray-800 font-sans">
+    <div className="bg-white text-[#0D2F4F]">
       <Header />
       <main>
         <Hero />
@@ -22,6 +22,6 @@ function App(): React.ReactNode {
       <Footer />
     </div>
   );
-}
+};
 
 export default App;
