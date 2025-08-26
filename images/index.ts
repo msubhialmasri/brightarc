@@ -14,7 +14,7 @@ export const approachImages = {
 export const partnerLogos = [
   { name: 'Boston Dynamics', logoUrl: 'https://www.materialhandling247.com/images/logos/Boston_Dynamics-Logo-500.png' },
   { name: 'Husqvarna', logoUrl: 'https://autolawn.co.uk/wp-content/uploads/2020/09/husqvarna-logo-blue-square.png' },
-  { name: 'Humain', logoUrl: 'https://images.crunchbase.com/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/gwmefylm5k2ncosuqqrf' },
+  { name: 'Humain', logoUrl: 'https://i.postimg.cc/yYwwQRwn/humain.jpg' },
   { name: '2030', logoUrl: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-GkrXPufQ5LrbcAD-6s3JK6bs4KRIXDkelA&s' },
 ];
 
